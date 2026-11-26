@@ -1,0 +1,9 @@
+{
+  "key.categories.safecreative": "安全创造",
+  "key.safecreative.original_drops": "切换原方块掉落",
+  "key.safecreative.container_protection": "切换容器保护",
+  "message.safecreative.original_drops": "原方块掉落：%s",
+  "message.safecreative.container_protection": "容器保护：%s",
+  "message.safecreative.on": "开启",
+  "message.safecreative.off": "关闭"
+}

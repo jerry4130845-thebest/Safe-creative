@@ -1,0 +1,9 @@
+{
+  "key.categories.safecreative": "Safe Creative",
+  "key.safecreative.original_drops": "Toggle Original Block Drops",
+  "key.safecreative.container_protection": "Toggle Container Protection",
+  "message.safecreative.original_drops": "Original block drops: %s",
+  "message.safecreative.container_protection": "Container protection: %s",
+  "message.safecreative.on": "On",
+  "message.safecreative.off": "Off"
+}
